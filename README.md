@@ -15,8 +15,8 @@ _This is a portfolio case study based on a banking scenario, not an official Ban
 The business scenario identifies one key challenges:
 **Limited service availability:** Customers have restricted access to traditional banking services outside business hours.
 
-## Proposed Solution
-ntroduce online banking capabilities that allow customers to access their accounts 24/7, with the broader goal of improving customer convenience and reducing dependence on contact-center support.
+### Proposed Solution
+Introduce online banking capabilities that allow customers to access their accounts 24/7, with the broader goal of improving customer convenience and reducing dependence on contact-center support.
 
 ## 2. Project Objectives
 -Translate business needs into functional requirements.
